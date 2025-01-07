@@ -285,5 +285,3 @@ function Execute-IMOD-Process {
 Check-For-Tool-Viability
 
 Execute-IMOD-Process
-
-cmd /c pause
