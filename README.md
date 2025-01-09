@@ -37,8 +37,8 @@ You can use that script to turn off the security features in a quick easy way, r
 
 - Tool (KX.exe):
 
-  The script expects KX.exe to be located either in the script's directory or the tools directory (C:\_\Programs\_exe\) for people that have my custom windows version.
-  Adjust the $ToolsKX variable if the tool is stored in a different location (C:\_\Programs\_exe\) > (C:\MyFolder\).
+  The script expects KX.exe to be located either in the script's directory or the tools directory for people that have my custom windows version.
+  Adjust the $ToolsKX variable if the tool is stored in a different location.
 
 ## Usage
 
