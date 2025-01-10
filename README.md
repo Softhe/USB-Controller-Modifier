@@ -29,16 +29,19 @@ You can use that script to turn off the security features in a quick easy way, r
 
 ## Configuration
 
-- Configuration File:
+### Configuration File:
 
-  This file should be located in the same directory as the script.
-  Each line should contain a Device ID for a USB controller.
-  Lines starting with # are treated as comments.
+This file should be located in the same directory as the script.
 
-- Tool (KX.exe):
+Each line should contain a Device ID for a USB controller.
 
-  The script expects KX.exe to be located either in the script's directory or the tools directory for people that have my custom windows version.
-  Adjust the $ToolsKX variable if the tool is stored in a different location.
+Lines starting with # are treated as comments.
+
+### Tool (KX.exe):
+
+The script expects KX.exe to be located either in the script's directory or the tools directory for people that have my custom windows version.
+
+Adjust the $ToolsKX variable if the tool is stored in a different location.
 
 ## Usage
 
